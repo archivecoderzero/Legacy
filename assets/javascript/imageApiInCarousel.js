@@ -6,7 +6,7 @@ $(document).ready(function() {
   var queryOrgHunter = 'https://data.orghunter.com/v1/charitysearch?';
   var twitterApiTrending = 'https://api.twitter.com/1.1/trends/place.json?id=1';
   var trendSpotterKey1 = 'ae8480dff3fa343b6d215da041939e3e';
-  var backupKeyTrendspottr = '7743da92de8ab506139a44b7a092ca95';
+  var backupKeyTrendspottr = '6b7379b7c50b420c7d47221829c96153';
   var trendSpotter = 'http://api.trendspottr.com/v1.5/search?key=' + backupKeyTrendspottr + '&q=?';
   var nytSearch = 'https://api.nytimes.com/svc/search/v2/articlesearch.json?&query=disaster&api-key=R1a31F4tBjCUaM2ho8GtIFsrSdtXt30M';
   var trendSpotterWord = 'charity';
